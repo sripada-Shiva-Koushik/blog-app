@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend.blogger-app-shiva.workers.dev"    //http://127.0.0.1:8787
